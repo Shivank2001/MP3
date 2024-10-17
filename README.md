@@ -94,5 +94,3 @@ To test the server, you can use a standard TFTP client. For example:
    tftp <server_ip> <port>
    tftp> put <filename>
    ```
-
-Ensure to test with various file sizes and both transfer modes (netascii and octet).
